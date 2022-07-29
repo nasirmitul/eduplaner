@@ -3,3 +3,10 @@
     object-fit: cover;
     filter: brightness(40%);
 }
+
+@media only screen and (max-width: 1250px){
+    .company-img{
+        flex-wrap: wrap;
+    }
+}
+
