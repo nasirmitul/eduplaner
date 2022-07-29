@@ -1,0 +1,5 @@
+.header-img{
+    height: 700px;
+    object-fit: cover;
+    filter: brightness(40%);
+}
